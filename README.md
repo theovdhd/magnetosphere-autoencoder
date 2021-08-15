@@ -1,0 +1,2 @@
+# magnetosphere-autoencoder
+GenerativeReconstruction ofMagnetosphericSimulations UsingAutoencoders for SpaceWeather Analysis
